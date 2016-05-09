@@ -1,0 +1,8 @@
+*/.classpath
+*/.settings/
+*/.checkstyle
+*/.project
+*/target/
+*/bin/
+*/.idea/
+*/*.iml
