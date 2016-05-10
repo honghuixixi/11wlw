@@ -244,6 +244,12 @@
 		    <artifactId>core</artifactId>
 		    <version>3.1.0</version>
 		</dependency>
+		<!-- mongo -->
+		<dependency>
+			<groupId>com.qpwa.set</groupId>
+			<artifactId>qpwa-core-mongo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<dependency>
 		  <groupId>com.unionpay.acp</groupId>
 		  <artifactId>upacp_sdk_private</artifactId>
